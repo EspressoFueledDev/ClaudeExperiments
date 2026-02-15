@@ -1,2 +1,9 @@
 anthropic
 python-dotenv
+requests
+beautifulsoup4
+chromadb[server]
+sentence-transformers
+flask
+jupyter
+pandas
